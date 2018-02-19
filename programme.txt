@@ -1,1 +1,2 @@
 ici ligne 1
+Encore une ligne, c'est la ligne 2
